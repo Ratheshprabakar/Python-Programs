@@ -1,2 +1,4 @@
 #1.To print helloworld
-print("Hello world!")
+a = "HELLO WORLD!!"
+for i in range(0, len(a)+1):
+  print(a[i])
